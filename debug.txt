@@ -1,0 +1,3 @@
+[finalScore] = [1708]
+[numOfCustomers] = [9368]
+[allIngredients.size()] = [600]
